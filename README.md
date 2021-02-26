@@ -21,6 +21,7 @@ I love airplanes, science, animation and a lot of things more. I hope one day we
 
 #### My social Media
 
+<p align="center">
 <a href="mailto:brunosanadev@gmail.com" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="http://twitter.com/brunosana2"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/bruno-santana-87a185165">
@@ -28,9 +29,10 @@ I love airplanes, science, animation and a lot of things more. I hope one day we
 </a>
 <a href="https://dev.to/brunosana"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
 <a href="http://www.twitch.tv/brunosana"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
+</p>
 
 #### Stack
-<p>
+<p align="center">
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
