@@ -54,5 +54,7 @@ I love airplanes, science, animation and a lot of things more. I hope one day we
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=brunosana&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
 ---
+
 <h3  align="center">💻 Check my projects ⬇️ </h3>
