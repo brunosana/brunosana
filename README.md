@@ -51,7 +51,7 @@ I love airplanes, science, animation and a lot of things more. I hope one day we
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/Accomigt/Accomigt/edit/main/README.md)
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/brunosana">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=brunosana&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=brunosana&layout=compact&langs_count=8&theme=algolia"/>
 </a>
