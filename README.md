@@ -9,8 +9,8 @@ I love airplanes, science, animation and a lot of things more. I hope one day we
 
 #### Some Facts
 
-- 🔭 I’m currently working on [Softeam](https://github.com/softeam-org) as a Back-end Developer.
-- 🌱 I’m currently learning JavaScript, Back-end, AWS services etc.
+- 🔭 I’m currently working on [Stefanini](https://github.com/stefanini) as a FullStack Developer.
+- 🌱 I’m currently learning Typescript, Back-end, Front-end, AWS services etc.
 - 👯 I hope learn sufficient to collaborate to open source projects.
 - 💬 Ask me about anything, i like to help people.
 - 📫 How to reach me: You can send me a personal <brunosanadev@gmail.com>
