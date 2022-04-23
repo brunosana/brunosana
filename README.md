@@ -9,7 +9,7 @@ I love airplanes, science, animation and a lot of things more. I hope one day we
 
 #### Some Facts
 
-- 🔭 I’m currently working on [Stefanini](https://github.com/stefanini) as a FullStack Developer.
+- 🔭 I’m currently working on [Conta Voltz](https://github.com/ContaVoltz) as a FullStack Developer.
 - 🌱 I’m currently learning Typescript, Back-end, Front-end, AWS services etc.
 - 👯 I hope learn sufficient to collaborate to open source projects.
 - 💬 Ask me about anything, i like to help people.
