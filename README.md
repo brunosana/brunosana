@@ -2,21 +2,26 @@
 
 <div align="center">
 <h1>About me</h1>
-Hi, my name is Bruno Sana, I'm a technology lover and programmer aspirant.
+Hi, my name is Bruno Sana, I'm a technology lover and fullstack programmer.
 
 I love airplanes, science, animation and a lot of things more. I hope one day we have a better world 🧾💻
+Completely in love with what i do, where i do and who i do it with 
 </div>
 
 #### Some Facts
 
-- 🔭 I’m currently working on [Conta Voltz](https://github.com/ContaVoltz) as a FullStack Developer.
-- 🌱 I’m currently learning Typescript, Back-end, Front-end, AWS services etc.
+- 🔭 I’m currently working on [Conta Voltz](https://github.com/ContaVoltz) as a FullStack Developer. With Javascript ecossystem and both NextJS and NestJS. Following Clean Architecture, Clean Code, Test Driven Development and Domain Driven Design. It's a wonderful place do work and improve my skills. I love my teammates and my leadership.
+- 🌱 I’m currently learning advanced NodeJS principles and improving my architecture skills. 
 - 👯 I hope learn sufficient to collaborate to open source projects.
-- 💬 Ask me about anything, i like to help people.
-- 📫 How to reach me: You can send me a personal <brunosanadev@gmail.com>
+- 💬 Ask me about anything, i love to help people and share knowledge.
+- 📫 How to reach me: You can send me a personal <brunosanadev@gmail.com> or access my website <http://www.brunosana.com.br>
 - ⚡ Fun fact:
   - I don't like coffe
   - I love Rick and Morty, Bojack Horseman and all Maverl's movies
+  - Sometimes i write about philosophy and personal ideas, love, world and a lot of other things
+  - I have a coming project to publish some videos speaking about techologies and i'm so excited for do this
+  - Linux for me it's one of the best thing that humanity created
+  - I'm current living on Aracaju city located in state of Sergipe, in Northeast
   - My favorite's game is Counter Strike Global Ofensive
 
 #### My social Media
